@@ -10,4 +10,5 @@
 
 ## TO DO
 
+* Conf file containing user's settings
 * Allow users to add their own search engines
