@@ -5,7 +5,7 @@
 ## Features
 
 * Multiple tabs
-* Multiple search engines
+* Multiple search engines to choose from
 * Bookmarks
 
 ## TO DO
